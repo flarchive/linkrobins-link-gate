@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of linkrobins/link-gate.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/link-gate) or the [upstream repository](https://github.com/linkrobins/flarum-link-gate).
 
-**0** versions archived · Latest: [`v2.0.2`](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
+**4** versions archived · Latest: [`v2.0.2`](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-08-08 | `^1.8` | [Browse](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v1.0.0) |
+| `v2.0.0` | 2026-08-08 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v2.0.0) |
+| `v2.0.1` | 2026-08-12 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v2.0.1) |
+| `v2.0.2` | 2026-08-24 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-link-gate/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/linkrobins-link-gate.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-link-gate.json)
 
